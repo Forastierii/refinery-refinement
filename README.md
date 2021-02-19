@@ -1,6 +1,8 @@
 # PETR Refining Business Review on Tableau
 The PETR Refining Business is evaluating its resources and wants a new strategy given that COVID stroke hard its businesses. We will use Python, Postgre and Tableau in order to import, treat, store and use the data to visualize trends and propose ideas for the refinery company we have.
 
+## Source
+
 For this work we had to extract information from different sources:
 
 - Refineries around the world: Wikipedia was webscrapped in order to get data on name of refinery, country, status of refinery, production (nominal).
@@ -20,4 +22,12 @@ https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/anuario-estatist
 - Information on Worlds reserves of oil, energy matrix and related information can be retrieved from the comprehensive study done by BP:
 https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html
 
-- Thanks to my class colleagues, Raiana and Yuri from Ironhack bootcamp who helped me get through the nasty bits of this project.
+- Thanks to my Ironhack bootcamp colleagues who helped me get through the nasty bits of this project.
+
+## What are we aiming at
+
+- What is our business?
+- How is our supply going?
+- What are our operations and where they are?
+- What is the impact of COVID to our business?
+- Where should we go now that we know the data?
