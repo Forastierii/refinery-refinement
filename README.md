@@ -6,7 +6,7 @@ The PETR Refining Business is evaluating its resources and wants a new strategy 
 For this work we had to extract information from different sources:
 
 - ¹Refineries around the world: Wikipedia was webscrapped in order to get data on name of refinery, country, status of refinery, production (nominal):
-https://github.com/Forastierii/refinery-refinement
+https://en.wikipedia.org/wiki/List_of_oil_refineries
 
 - Refineries in Brazil and its state: Wikipedia was used as well, through webscrapping.
 
