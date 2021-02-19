@@ -22,7 +22,6 @@ https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/anuario-estatist
 - Information on Worlds reserves of oil, energy matrix and related information can be retrieved from the comprehensive study done by BP:
 https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html
 
-- Thanks to my Ironhack bootcamp colleagues who helped me get through the nasty bits of this project.
 
 ## What are we aiming at
 
@@ -31,3 +30,7 @@ https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-wo
 - What are our operations and where they are?
 - What is the impact of COVID to our business?
 - Where should we go now that we know the data?
+
+## Aknowledgements
+
+- Thanks to my Ironhack bootcamp colleagues who helped me get through the nasty bits of this project.
