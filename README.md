@@ -1,2 +1,23 @@
-# refinery-refinement
-What is the future of our refineries after COVID?
+# PETR Refining Business Review on Tableau
+The PETR Refining Business is evaluating its resources and wants a new strategy given that COVID stroke hard its businesses. We will use Python, Postgre and Tableau in order to import, treat, store and use the data to visualize trends and propose ideas for the refinery company we have.
+
+For this work we had to extract information from different sources:
+
+- Refineries around the world: Wikipedia was webscrapped in order to get data on name of refinery, country, status of refinery, production (nominal).
+
+- Refineries in Brazil and its state: Wikipedia was used as well, through webscrapping.
+
+- COVID data: the API elaborated by Oxford team on the Policy Tracker. The API can be accessed through the links below and information/documentation is provided on GitHub:
+https://github.com/OxCGRT/covid-policy-tracker
+https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker
+
+- ISO Country Codes: in order to our databases use the same coding system for countries, the table was uploaded through a CSV provided by an user from GitHub. It can be downloaded below:
+https://gist.github.com/cpl/3dc2d19137588d9ae202d67233715478#file-countries_codes_and_coordinates-csv
+
+- Refinery Output for brazilian refineries and fuel sales throughout Brazil are part of the program "Dados Abertos" from the brazilian government and can be obtained in the form of CSVs provided by ANP (Agência Nacional do Petróleo):
+https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/anuario-estatistico-2020-dados-abertos#secao4
+
+- Information on Worlds reserves of oil, energy matrix and related information can be retrieved from the comprehensive study done by BP:
+https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html
+
+- Thanks to my class colleagues, Raiana and Yuri from Ironhack bootcamp who helped me get through the nasty bits of this project.
