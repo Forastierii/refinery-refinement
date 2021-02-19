@@ -22,8 +22,8 @@ https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/anuario-estatist
 - Information on Worlds reserves of oil, energy matrix and related information can be retrieved from the comprehensive study done by BP:
 https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html
 
-¹List of world refineries form Wikipedia is not complete but it didn't have an effect on the overall analysis of the brazilian market.
-²The Diesel data are missing, ANP hasn't updated it completely for 2020.
+1. List of world refineries form Wikipedia is not complete but it didn't have an effect on the overall analysis of the brazilian market.
+2. The Diesel data are missing, ANP hasn't updated it completely for 2020.
 
 ## What are we aiming at
 
