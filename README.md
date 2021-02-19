@@ -5,7 +5,7 @@ The PETR Refining Business is evaluating its resources and wants a new strategy 
 
 For this work we had to extract information from different sources:
 
-- Refineries around the world: Wikipedia was webscrapped in order to get data on name of refinery, country, status of refinery, production (nominal).*
+- ¹Refineries around the world: Wikipedia was webscrapped in order to get data on name of refinery, country, status of refinery, production (nominal).
 
 - Refineries in Brazil and its state: Wikipedia was used as well, through webscrapping.
 
@@ -16,14 +16,14 @@ https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-respo
 - ISO Country Codes: in order to our databases use the same coding system for countries, the table was uploaded through a CSV provided by an user from GitHub. It can be downloaded below:
 https://gist.github.com/cpl/3dc2d19137588d9ae202d67233715478#file-countries_codes_and_coordinates-csv
 
-- Refinery Output for brazilian refineries and fuel sales throughout Brazil are part of the program "Dados Abertos" from the brazilian government and can be obtained in the form of CSVs provided by ANP (Agência Nacional do Petróleo):**
+- ²Refinery Output for brazilian refineries and fuel sales throughout Brazil are part of the program "Dados Abertos" from the brazilian government and can be obtained in the form of CSVs provided by ANP (Agência Nacional do Petróleo):
 https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/anuario-estatistico-2020-dados-abertos#secao4
 
 - Information on Worlds reserves of oil, energy matrix and related information can be retrieved from the comprehensive study done by BP:
 https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy/downloads.html
 
-* List of world refineries form Wikipedia is not complete but it didn't have an effect on the overall analysis of the brazilian market.
-** The Diesel data are missing, ANP hasn't updated it completely for 2020.
+¹List of world refineries form Wikipedia is not complete but it didn't have an effect on the overall analysis of the brazilian market.
+²The Diesel data are missing, ANP hasn't updated it completely for 2020.
 
 ## What are we aiming at
 
