@@ -4,8 +4,6 @@ The PETR Refining Business is evaluating its resources and wants a new strategy 
 
 You can have a static preview of my presentation in a friendly format (PDF) here: https://github.com/Forastierii/refinery-refinement/blob/main/PETR%20Refining%20Business.pdf
 
-[Gdansk Oil refinery](Forastierii.github.com/refinery-refinement/gdansk-oil-refinery-cc.jpg)
-
 ## Source
 
 For this work we had to extract information from different sources:
