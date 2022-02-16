@@ -1,8 +1,8 @@
 # PETR Refining Business Review on Tableau
 
-You can access my presentation in a friendly format (PDF) here: https://github.com/Forastierii/refinery-refinement/blob/main/PETR%20Refining%20Business.pdf
-
 The PETR Refining Business is evaluating its resources and wants a new strategy given that COVID stroke hard its businesses. I used Python, Postgre and Tableau in order to import, treat, store and use the data to visualize trends and propose ideas for the refinery company we have.
+
+You can have a static preview of my presentation in a friendly format (PDF) here: https://github.com/Forastierii/refinery-refinement/blob/main/PETR%20Refining%20Business.pdf
 
 ## Source
 
